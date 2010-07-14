@@ -1,7 +1,7 @@
 === Definition List ===
 Contributors: jedait
 Donate link: http://cirux.ru
-Tags: definition, list
+Tags: definition-list, dd, dt, dl, definition, list
 Requires at least: 2.0.2
 Tested up to: 3.0
 Stable tag: 1.0
