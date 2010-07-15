@@ -4,7 +4,7 @@ Donate link: http://cirux.ru
 Tags: definition-list, dd, dt, dl, definition, list
 Requires at least: 2.0.2
 Tested up to: 3.0
-Stable tag: 1.0
+Stable tag: 1.1
 
 Definition List plugin add button to rich editor. Using it you can easily insert definition list elements to your articles.
 
@@ -22,6 +22,9 @@ Definition List plugin add button to rich editor. Using it you can easily insert
 == Screenshots ==
 
 == Changelog ==
+
+= 1.1 =
+* Rename fields.
 
 = 1.0 =
 * First stable version.

@@ -26,7 +26,7 @@ function dd_insert() {
 <body>
 <form>
     <p>Term<br/><input name="Term" id="dd_term" type="text" size="91"/></p>
-    <p>Description<br/><textarea name="Description" id="dd_desc" cols="90" rows="20"></textarea></p>
+    <p>Definition<br/><textarea name="Definition" id="dd_desc" cols="90" rows="20"></textarea></p>
     <p><input type="button" value="insert" onclick="dd_insert();" style="width: 120" /></p>
 </form>
 </body>
