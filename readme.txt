@@ -12,6 +12,8 @@ Definition List plugin add button to rich editor. Using it you can easily insert
 
 Definition List plugin add button to rich editor. Using it you can easily insert definition list elements to your articles.
 
+For more detailed description please visit [Plugin Page](http://cirux.ru/definition-list "Definition List Plugin")
+
 == Installation ==
 
 1. Upload `definition-list` folder to the `/wp-content/plugins/` directory
@@ -20,6 +22,8 @@ Definition List plugin add button to rich editor. Using it you can easily insert
 == Frequently Asked Questions ==
 
 == Screenshots ==
+
+Screenshots are available at [Plugin Page](http://cirux.ru/definition-list "Definition List Plugin")
 
 == Changelog ==
 
