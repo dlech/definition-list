@@ -16,8 +16,8 @@ For more detailed description please visit [Plugin Page](http://cirux.ru/definit
 
 == Installation ==
 
-1. Upload `definition-list` folder to the `/wp-content/plugins/` directory
-2. Activate the plugin through the 'Plugins' menu in WordPress
+1. Upload `definition-list` folder to the `/wp-content/plugins/` directory.
+2. Activate the plugin through the 'Plugins' menu in WordPress.
 
 == Frequently Asked Questions ==
 
