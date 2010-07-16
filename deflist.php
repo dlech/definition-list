@@ -3,7 +3,7 @@
 Plugin Name: Definition List Button
 Plugin URI: http://wordpress.org/extend/plugins/definition-list
 Description: Add button to rich editor that easily insert definition list element ( dl, dt, dd tags).
-Version: 1.0
+Version: 1.1
 Author: Nick
 Author URI: http://cirux.ru
 License: GPL2
